@@ -1,10 +1,3 @@
----
-title: harryninja
-date: '25-07-2020'
-spoiler: Readme
-categories: ["elaborate", "profile"]
-githubUsername: 'harryninja'
----
 
 # Hi, I'm [Harold Illert]! 👋
 
