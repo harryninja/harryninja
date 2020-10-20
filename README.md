@@ -14,7 +14,7 @@ I am a front-end developer that works with freelance, at the moment i'm searchin
 ## ⚡ Stats
 ![harryninja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harryninja&layout=compact&theme=dracula&hide=["issues"]&show_icons=true)&nbsp;
 ![harryninja's most used](https://github-readme-stats.vercel.app/api/top-langs/?username=harryninja&layout=compact&theme=dracula&hide=["issues"]&show_icons=true)&nbsp;
-![harryninja's most time](https://github-readme-stats.vercel.app/api/wakatime?username=harryninja&theme=dracula&layout=compact&theme=dracula&hide=["issues"]&show_icons=true)&nbsp;
+![harryninja's most time](https://github-readme-stats.vercel.app/api/wakatime?username=harryninja&theme=dracula&layout=compact&hide=["issues"]&show_icons=true)&nbsp;
 
 ##  🎉 Skills  🎉
 - **FrontEnd**: React, Redux, Laravel, SASS, Webpack
