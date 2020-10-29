@@ -17,11 +17,11 @@ I am a front-end developer that works with freelance, at the moment i'm searchin
 ![harryninja's most time](https://github-readme-stats.vercel.app/api/wakatime?username=harryninja&theme=dracula&layout=compact&hide=["issues"]&show_icons=true)&nbsp;
 
 ##  🎉 Skills  🎉
-- **FrontEnd**: React, Redux, Laravel, SASS, Webpack
-- **BackEnd**: Node.js, Express
-- **Mobile**: React Native
-- **Bots**: Botkit, Rasa
-- **UI Frameworks**: Bootstrap
-- **Web technologies**: HTML5, CSS3, ES6, PHP
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Misc**: Git, Eslint, Prettier
+- **FrontEnd**: React, Redux, Laravel, SASS, Webpack.
+- **BackEnd**: Node.js, Express.
+- **Mobile**: Ionic.
+- **Bots**: Botkit, Rasa.
+- **UI Frameworks**: Bootstrap, Bulma CSS.
+- **Web technologies**: HTML5, CSS3, ES6, PHP.
+- **Databases**: MongoDB, MySQL, PostgreSQL.
+- **Misc**: Git, Eslint, Prettier.
