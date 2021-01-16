@@ -18,7 +18,7 @@ I am a front-end developer that works with freelance, at the moment i'm searchin
 
 ##  🎉 Skills  🎉
 - **FrontEnd**:   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> Redux, Laravel, SASS, Webpack.
-- **BackEnd**: <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> Express.
+- **BackEnd**: <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> 
 - **Mobile**: Ionic.
 - **Bots**: Botkit, Rasa.
 - **UI Frameworks**: Bootstrap, Bulma CSS.
