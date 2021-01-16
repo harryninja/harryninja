@@ -22,6 +22,6 @@ I am a front-end developer that works with freelance, at the moment i'm searchin
 - **Mobile**: Ionic.
 - **Bots**: Botkit, Rasa.
 - **UI Frameworks**: Bootstrap, Bulma CSS.
-- **Web technologies**: HTML5, CSS3, ES6, PHP.
+- **Web technologies**:  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />, <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />, ES6, PHP.
 - **Databases**: MongoDB, MySQL, PostgreSQL.
 - **Misc**: Git, Eslint, Prettier.
