@@ -10,7 +10,7 @@
 I am a DevOps engineer from :house: Recife, Brazil.
 
 ## ⚡ Stats
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  ![Status](./profile-3d-contrib/proftec.webp)
 
 
 
