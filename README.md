@@ -7,7 +7,7 @@
 [![Gmail: Harold Illert](https://img.shields.io/badge/Gmail-harryninja-red)](mailto:harold_illert@outlook.com)&nbsp;
 [![Stack Overflow: Harry Illert](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/10695508/harry-illert)](https://stackoverflow.com/users/10695508/harry-illert)&nbsp;
 
-I am a DevOps engineer from :house: Recife, Brazil.
+I am a Developer from :house: Recife, Brazil.
 
 ## ⚡ Stats
   ![Status](./profile-3d-contrib/proftec.webp)
